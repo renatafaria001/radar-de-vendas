@@ -1,16 +1,100 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# 🟢 TECHNOVERSO | Radar de Vendas
 
-Currently, two official plugins are available:
+Plataforma de Business Intelligence e inteligência
+comercial, desenvolvida para transformar dados
+em informações estratégicas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Demonstração online
 
-## React Compiler
+[Acessar aplicação](https://radar-de-vendas-gwsjolwri-renata-faria.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Sobre o projeto
 
-## Expanding the Oxlint configuration
+O Radar de Vendas nasceu da minha experiência
+na área comercial, onde identifiquei a importância
+da organização dos dados e do acompanhamento
+de indicadores para a tomada de decisões.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+O projeto une conhecimentos de Análise de Dados,
+Business Intelligence e Desenvolvimento Front-end.
+
+## 🎨 Identidade visual
+
+O projeto possui identidade visual própria,
+com a marca TECHNOVERSO, estética futurista,
+paleta de cores verde e preta e interface
+com opções de tema claro e escuro.
+
+## 📊 Funcionalidades
+
+- Dashboard interativo
+- Indicadores de desempenho (KPIs)
+- Análise de faturamento
+- Ticket médio e taxa de conversão
+- Gerenciamento de leads
+- Funil de vendas
+- Desempenho por vendedor
+- Análise de canais de aquisição
+- Acompanhamento de metas comerciais
+- Importação e exportação CSV
+- Armazenamento local dos dados
+
+## 💻 Tecnologias utilizadas
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Recharts
+- Papa Parse
+- Lucide React
+- LocalStorage
+- Git e GitHub
+- Visual Studio Code
+- Vercel
+
+## 🧠 Competências desenvolvidas
+
+- Análise e visualização de dados
+- Construção de indicadores comerciais
+- Tratamento e validação de dados
+- Desenvolvimento de interfaces
+- Organização de componentes
+- UX/UI e identidade visual
+- Versionamento de código
+- Deploy de aplicações web
+- Inteligência artificial aplicada ao desenvolvimento
+
+## ⚙️ Como executar localmente
+
+```bash
+git clone https://github.com/renatafaria001/radar-de-vendas.git
+cd radar-de-vendas
+npm install
+npm run dev
+```
+
+## 📁 Base de dados
+
+O projeto utiliza dados comerciais fictícios
+para fins demonstrativos e educacionais.
+
+## 📌 Limitações atuais
+
+Aplicação Front-end demonstrativa com armazenamento
+via LocalStorage, sem backend, autenticação ou
+banco de dados externo.
+
+## 👩‍💻 Autora
+
+Renata Victoria Faria
+
+Formação em Análise e Desenvolvimento de Sistemas
+(conclusão prevista para janeiro de 2027).
+
+Experiência comercial e interesse em Análise
+de Dados, Business Intelligence e Front-end.
+
+[Meu GitHub](https://github.com/renatafaria001)
